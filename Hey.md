@@ -1,8 +1,8 @@
 {
 "Title": "@Modify_BackUp",
-"Description": "Bemolap",
-"Link": "https://t.me/Modify_BackUp",
+"Description": "این اپلیکیشن توسط کانال Modify_BackUp مود شده است.\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
+"Link": "https://t.me/+e_HPqZQmTTZkYTY0",
 "Color": "#40d146",
-"Button": "JOIN",
-"Show": "off"
+"Button": "پیوستن",
+"Show": "on"
 }
